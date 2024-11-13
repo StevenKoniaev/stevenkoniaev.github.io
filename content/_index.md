@@ -41,7 +41,7 @@ Thanks for stopping by - here's some information about me.
 
 ## Hobbies
 - Reading / Implementing ML papers.
-  - [My paper list / ML resources.](./blog/paper-list)
+  - [My paper list / ML resources.](./resources)
 - Reading *some* books.
   - Recently have gone through [Deepwork](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/), [Atomic Habits](https://jamesclear.com/atomic-habits), [Surely you're Joking Mr Feynman](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!).
 - Game Dev
