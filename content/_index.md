@@ -21,7 +21,7 @@ Thanks for stopping by - here's some information about me.
 - **Teaching Assistant @ [McGill University](https://www.mcgill.ca/study/2024-2025/courses/comp-273)** (4 months 2023)
 - **Emerging Technologies Intern @ [Global Affairs Canada](https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx?lang=eng)** (8 months 2023)
 
-## [My Projects](./projects)
+## [My Projects](./portfolio)
 
 - Raytracer - Final project for Computer Graphics (In Progress For This Semester)
 - Similarity of Languages - Final Project for NLP Course
