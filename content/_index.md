@@ -54,6 +54,6 @@ Thanks for stopping by - here's some information about me.
 ## Contact
 Feel free to reach out.
 
-- Email: `steven\[dot\]koniaev\[at\]gmail.com`
+- Email: `steven[dot]koniaev[at]gmail.com`
 - Github: [https://github.com/StevenKoniaev](https://github.com/StevenKoniaev)
 - LinkedIn: [https://www.linkedin.com/in/steven-koniaev-944ba422a/](https://www.linkedin.com/in/steven-koniaev-944ba422a/)
