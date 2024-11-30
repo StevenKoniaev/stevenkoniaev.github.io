@@ -16,7 +16,7 @@ Thanks for stopping by - here's some information about me.
 
 ## Experience 
 
-- **Undergraduate Researcher Intern @ [MILA](https://mila.quebec/en)** (Current - 2024)
+- **Undergraduate Researcherer @ [MILA](https://mila.quebec/en)** (Current - 2024)
 - **Base OS/Kernel Engineering Intern @ [Ciena Corp](https://www.ciena.com/)** (4 months 2024)
 - **Teaching Assistant @ [McGill University](https://www.mcgill.ca/study/2024-2025/courses/comp-273)** (4 months 2023)
 - **Emerging Technologies Intern @ [Global Affairs Canada](https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx?lang=eng)** (8 months 2023)
